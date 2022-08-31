@@ -36,7 +36,7 @@ Tic Tac Toe is a simple game in which two players alternately put Xs and Os in c
   
 ![Player2Won](https://user-images.githubusercontent.com/71905489/187568563-abe7990c-16d2-4a53-8619-974d33261c9b.png)
 
-# Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
